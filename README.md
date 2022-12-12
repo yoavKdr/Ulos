@@ -13,8 +13,8 @@ I STARTED FOR REAL.
 In the beginning I made boot loader with asm and thought: from now on, everything will be easy (second mistake).
 I managed to print "Hello World!", and of course after that big success I wanted to make a command line in my OS,
 and only then I understood that I can't make it in just 512 poor bytes,
-so i stared working on the abillity to read the disk and extended the correct storage.
-That some how work in my second atemmpt.
+so i stared working on the abillity to read the disk and extended the correct storage,
+it somehow worked in the second atemmpt.
 I learned that in order to easily run C code on my OS i need to transform my OS from 16 bytes to 32 bytes so...
 With hard work and the power of google I did it! my OS was 32 byte (I found amazing tutorial).
-I still don't know why, how and when but I transform my os to 64 bytes (the tutorial was truly amazing).
+I still don't know why, how and when but I transformd my os to 64 bytes (the tutorial was truly amazing).
